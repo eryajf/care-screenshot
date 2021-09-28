@@ -98,6 +98,6 @@ docker run -it --rm registry.cn-hangzhou.aliyuncs.com/ali_eryajf/chrome-go-rod:v
 
 ## 另外
 
-- 如果觉得项目不错，麻烦动动小手点个⭐️start⭐️!
+- 如果觉得项目不错，麻烦动动小手点个⭐️star⭐️!
 - 如果你还有其他项目或者需求，欢迎在issue中交流！
 - 程序还有很多bug，部分页面可能截图失败，可重试一波，如果还失败，那就与我一起来维护这个项目吧！
