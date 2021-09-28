@@ -71,7 +71,7 @@ func init() {
 	fset.StringP("element", "e", "#s_lg_img", "给我你关心的页面元素")
 	fset.StringP("kuan", "k", "1200", "页面宽度")
 	fset.StringP("gao", "g", "800", "页面高度")
-	fset.StringP("bot", "b", "d63e3f22-3a88-43fb-a2ad-ad78ba5b43b5", "机器人地址")
+	fset.StringP("bot", "b", "", "机器人地址")
 	execCmd.MarkFlagRequired("url")
 	execCmd.MarkFlagRequired("element")
 	rootCmd.AddCommand(execCmd)
