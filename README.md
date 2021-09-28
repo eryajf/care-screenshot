@@ -5,8 +5,9 @@
 
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/care-screenshot)
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/eryajf/care-screenshot/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/eryajf/care-screenshot/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/eryajf/care-screenshot.svg)](https://github.com/eryajf/care-screenshot/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/care-screenshot)](https://github.com/eryajf/care-screenshot/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/care-screenshot)](https://github.com/eryajf/care-screenshot/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 
