@@ -85,8 +85,10 @@ $ ./care-screenshot exec  -u 'http://10.6.6.5:5601/goto/d700abb7461c1e5b91cf5c65
 程序在主机上运行的时候，如果检查到运行环境不满足需求，会自动下载相关依赖，如果你想来去无痕地运行程序，可以使用如下程序运行：
 
 ```bash
-docker run -it --rm registry.cn-hangzhou.aliyuncs.com/ali_eryajf/chrome-go-rod:v0.0.1 care-screenshot exec -u 'https://www.baidu.com' -e '#s_lg_img' -k 800 -g 800
+docker run -it --rm registry.cn-hangzhou.aliyuncs.com/ali_eryajf/chrome-go-rod:v0.0.1 care-screenshot exec -u 'https://www.baidu.com' -b '你的企业微信机器人后缀地址' -e '#s_lg_img' -k 800 -g 800
 ```
+
+`注意：`请将企业微信机器人地址替换成你自己的,否则图片将会发往默认的群。
 
 通过这种方式，也方便我们将程序放到系统定时任务中定期拿到我们关心的数据了。
 
