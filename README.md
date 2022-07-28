@@ -1,25 +1,17 @@
-<h3 align="center">Care ScreenShot</h3>
-
-
 <div align="center">
-
+<h3>Care ScreenShot</h3>
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/care-screenshot)
 [![GitHub Issues](https://img.shields.io/github/issues/eryajf/care-screenshot.svg)](https://github.com/eryajf/care-screenshot/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/care-screenshot)](https://github.com/eryajf/care-screenshot/pulls)
 [![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/care-screenshot)](https://github.com/eryajf/care-screenshot/stargazers)
+[![HitCount](https://views.whatilearened.today/views/github/eryajf/care-screenshot.svg)](https://github.com/eryajf/go-ldap-admin)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
+<p> 给我一个URL，我能截图发给企业微信机器人🤖</p>
 
-</div>
-
-
----
-
-<p align="center"> 给我一个URL，我能截图发给企业微信机器人🤖
-    <br> 
-</p>
-
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
+</div><br>
 
 
 ## 使用
