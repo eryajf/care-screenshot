@@ -1,4 +1,4 @@
-FROM registry.cn-hangzhou.aliyuncs.com/ali_eryajf/chrome-go-rod:base
+FROM registry.cn-hangzhou.aliyuncs.com/eryajf/chrome-go-rod:base
 
 LABEL maintainer eryajf
 
